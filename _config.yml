@@ -1,0 +1,18 @@
+title: Mulalo Manthada's Portfolio
+description: "Data Scientist specializing in Machine Learning, PowerBi, Data analysis, Data cleaning, Sql and Data Visualization."
+url: MulaloManthada.github.io
+baseurl:
+
+author:
+  name: Mulalo Manthada
+  email: manthadamulalo@gmail.com
+
+theme: minimal-mistakes 
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+social:
+  github: "https://github.com/MulaloManthda
+  linkedin: https://www.linkedin.com/in/manthada-mulalo-06960290
